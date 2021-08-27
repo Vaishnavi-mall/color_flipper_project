@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+#clicked_btn{
+    height: 70px;
+    width:200px;
+    margin-top: 300px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#text_btn{
+    height: 100px;
+    width: 600px;
+    margin-top: 10px;
+    margin-left:350px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
